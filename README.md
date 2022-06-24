@@ -1,3 +1,4 @@
 # vk-pet-clinic
 
-VK Pet Clinic
+Custom Pet Clinic
+
